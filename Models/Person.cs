@@ -1,6 +1,6 @@
 using System;
 
-namespace backend_demoGit
+namespace backend_demoGit.Models
 {
     public class Person
     {

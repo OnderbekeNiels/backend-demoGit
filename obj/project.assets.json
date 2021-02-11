@@ -200,11 +200,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MTS4-2MCT1-WAD\\BackEndDev\\Labo\\Demo1\\Demo1.csproj",
-      "projectName": "Demo1",
-      "projectPath": "D:\\MTS4-2MCT1-WAD\\BackEndDev\\Labo\\Demo1\\Demo1.csproj",
+      "projectUniqueName": "D:\\MTS4-2MCT1-WAD\\BackEndDev\\Labo\\backend-demoGit\\backend-demoGit.csproj",
+      "projectName": "backend-demoGit",
+      "projectPath": "D:\\MTS4-2MCT1-WAD\\BackEndDev\\Labo\\backend-demoGit\\backend-demoGit.csproj",
       "packagesPath": "C:\\Users\\niels\\.nuget\\packages\\",
-      "outputPath": "D:\\MTS4-2MCT1-WAD\\BackEndDev\\Labo\\Demo1\\obj\\",
+      "outputPath": "D:\\MTS4-2MCT1-WAD\\BackEndDev\\Labo\\backend-demoGit\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
