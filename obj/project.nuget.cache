@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "526L9JCbvLrgjnxOHchmk4EA52lohnrUqVlwCLd44dapdJA8Eib0MuuWfDiIUfWuB8cL41XUXFekp92iFzEQqQ==",
+  "dgSpecHash": "myQP+AdXIpFcwpBpJAyF2NVK6hwFkouFl0Ad5BtnxCcOKpUPsIAa9iBMprKaCDr5GYZ8MDL6D1f+0uHrz55Yhg==",
   "success": true,
-  "projectFilePath": "D:\\MTS4-2MCT1-WAD\\BackEndDev\\Labo\\Demo1\\Demo1.csproj",
+  "projectFilePath": "D:\\MTS4-2MCT1-WAD\\BackEndDev\\Labo\\backend-demoGit\\backend-demoGit.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\niels\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\niels\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

@@ -12,7 +12,7 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
 
-namespace Demo1
+namespace backend_demoGit
 {
     public class Startup
     {
@@ -30,7 +30,7 @@ namespace Demo1
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
-                c.SwaggerDoc("v1", new OpenApiInfo { Title = "Demo1", Version = "v1" });
+                c.SwaggerDoc("v1", new OpenApiInfo { Title = "backend_demoGit", Version = "v1" });
             });
         }
 
@@ -41,7 +41,7 @@ namespace Demo1
             {
                 app.UseDeveloperExceptionPage();
                 app.UseSwagger();
-                app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "Demo1 v1"));
+                app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "backend_demoGit v1"));
             }
 
             app.UseHttpsRedirection();
